@@ -1,1 +1,13 @@
-secrets.txt
+hooks
+info
+logs
+objects
+refs
+COMMIT_EDITMSG
+FETCH_HEAD
+HEAD
+ORIG_HEAD
+config
+description
+index
+Jenkinsfile
